@@ -1,5 +1,5 @@
 # LSTMLondon
-London.ipynb : Contains data processing, explaratory data analysis and LSTM Model
+London.ipynb : Contains data processing, explaratory data analysis, Regression model, LSTM Model and Arima Model
 
 
 
